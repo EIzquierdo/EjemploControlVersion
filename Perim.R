@@ -7,5 +7,5 @@ LogitudCircu <- function(r){
 }
 
 PerimetroRec <- function(L1,L2){
-  return(2*L1+2*L2)
+  return(L1+L2)*2
 }
