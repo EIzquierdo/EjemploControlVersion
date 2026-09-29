@@ -34,3 +34,11 @@ L1<-3
 L2<-4
 AreaRectangulo <- L1*L2
 ```
+
+## Area trapecio
+```{r}
+L1<-3
+L2<-4
+h <-2
+AreaTrapecio <- ((L1+L2)*h)/2
+```
